@@ -1,0 +1,53 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 09 Sep 2021 20:33:44 at https://ipa-apps.me/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://ipa-apps.me/* +*https://ipa-apps.me/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ipa-apps.me/ -O1 "C:\My Web Sites\mosrda3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://ipa-apps.me/* +*https://ipa-apps.me/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/img/i-f7-ios.png (from https://ipa-apps.me/css/framework7.ios.min.css)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Spotify_lol.plist (from https://ipa-apps.me/Links/Spotify.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Twitter2_lol.plist (from https://ipa-apps.me/Links/Twitter2.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Watusi2_lol.plist (from https://ipa-apps.me/Links/Watusi2.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/SnapBreak.plist (from https://ipa-apps.me/Links/SnapBreak.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Cercube_lol.plist (from https://ipa-apps.me/Links/Cercube.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/YouTubeOld_lol.plist (from https://ipa-apps.me/Links/YouTubeOld.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Rocket_lol.plist (from https://ipa-apps.me/Links/Rocket.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/instagramPls2_lol.plist (from https://ipa-apps.me/Links/instagramPls2.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Infltr_lol.plist (from https://ipa-apps.me/Links/Infltr.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Moonlight_lol.plist (from https://ipa-apps.me/Links/Moonlight.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/TikTok_lol.plist (from https://ipa-apps.me/Links/TikTok.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/jodel_lol.plist (from https://ipa-apps.me/Links/jodel2.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/BikeRace_lol.plist (from https://ipa-apps.me/Links/BikeRace.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/ScreenshotX_lol.plist (from https://ipa-apps.me/Links/ScreenshotX.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/AppInstaller_lol.plist (from https://ipa-apps.me/Links/AppInstaller.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/FastRespring12_lol.plist (from https://ipa-apps.me/Links/FastRespring12.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/RootlessJB4_lol.plist (from https://ipa-apps.me/Links/RootlessJB4.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/PlankFilza_c.plist (from https://ipa-apps.me/Links/PlankFilza.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/OdysseyJB_k.plist (from https://ipa-apps.me/Links/OdysseyJB.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Taurine_k.plist (from https://ipa-apps.me/Links/Taurine.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/ChimeraJB_lol.plist (from https://ipa-apps.me/Links/ChimeraJB.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/ChimeraJB_oldv_lol.plist (from https://ipa-apps.me/Links/ChimeraJB_oldv.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Unc0ver_k.plist (from https://ipa-apps.me/Links/Unc0ver.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Unc0ver_old.plist (from https://ipa-apps.me/Links/Unc0ver_old.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/ElectraJB_lol.plist (from https://ipa-apps.me/Links/ElectraJB.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Th0r_lol.plist (from https://ipa-apps.me/Links/Th0r.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Th0r3_lol.plist (from https://ipa-apps.me/Links/Th0r3.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Th0r4_lol.plist (from https://ipa-apps.me/Links/Th0r4.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/JBRemover_lol.plist (from https://ipa-apps.me/Links/JBRemover.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/rollectra11_lol.plist (from https://ipa-apps.me/Links/rollectra11.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Houdini_lol.plist (from https://ipa-apps.me/Links/Houdini.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/DoubleH3lix_lol.plist (from https://ipa-apps.me/Links/DoubleH3lix.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/g0blin_lol.plist (from https://ipa-apps.me/Links/g0blin.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Meridian_lol.plist (from https://ipa-apps.me/Links/Meridian.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/Saigon_lol.plist (from https://ipa-apps.me/Links/Saigon.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/yalu102_lol.plist (from https://ipa-apps.me/Links/Yalu102.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/yaluE1_lol.plist (from https://ipa-apps.me/Links/yaluE1.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/H3lix_lol.plist (from https://ipa-apps.me/Links/H3lix.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/PhoenixJB_lol.plist (from https://ipa-apps.me/Links/PhoenixJB.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/EtasonJB_lol.plist (from https://ipa-apps.me/Links/EtasonJB.php)
+20:39:14	Error: 	"Not Found" (404) at link https://ipa-apps.me/Links/itms-services://?action=download-manifest&url=https://file.ipa-apps.me/plist/pangu_lol.plist (from https://ipa-apps.me/Links/pangu.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 30 seconds : 132 links scanned, 89 files written (2591644 bytes overall) [2191537 bytes received at 6641 bytes/sec], 891887 bytes transferred using HTTP compression in 47 files, ratio 49%, 1.5 requests per connection
+(42 errors, 0 warnings, 0 messages)
